@@ -121,4 +121,12 @@ footer{
         grid-column: 1;
         grid-row: 5;
     }
+
+    .card--bg-puprle{
+        background-color: hsl(263,55%,52%);
+        color: #fff;
+        background-image: url('../images/bg-pattern-quotation.svg.svg');
+        background-repeat: no-repeat;
+        background-position: top 10px right 50px;
+    }
 }
